@@ -1,0 +1,2 @@
+# Fake-Review-Detection
+In an effort to regain the Internet’s trustworthy foundation, I would like to propose my solution to identifying untruthful and bogus reviews. This project will be using data collection, data pre-processing, feature selection, sentiment analysis, and detection processes using Machine Learning Algorithms like Logistic Regression, Naive Bayes, and Random Forest Classifier to predict the outcomes, performance evaluation, and results from the analysis.
